@@ -1,0 +1,50 @@
+body {
+    background-color: #303036;
+  }
+  
+  #title {
+    color: #ADBDFF;
+    text-align: center;
+    font-family: 'Odibee Sans', cursive;
+  }
+  
+  #img-div {
+  margin: 1em;
+  text-align: center;
+    
+  }
+  
+  #image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    border: 5px;
+    border-style: solid ;
+    border-color: #ADBDFF;
+    border-radius: 5px;
+
+    /* Border &  styling must be removed to achieve image parent element centering on FCC Codepen activity */
+  
+  }
+  
+  #img-caption{
+    margin: 1em;
+  }
+  
+  .text {
+    text-align: center;
+    color: #DF2935;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+ 
+  
+  li {
+    color: #F2BB05; 
+    line-height: 1.5;
+    text-align: center;
+    margin: 1.5em;
+    font-family: 'Ubuntu', sans-serif;
+  
+  }
